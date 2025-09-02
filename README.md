@@ -8,6 +8,7 @@ https://arxiv.org/pdf/2505.21566
 python ./main.py --mode joint --actions "Walking,Waiting"
 
 
+# Reference
 
 @misc{huayu2025diffusionmodelbasedactivitycompletion,
       title={Diffusion Model-based Activity Completion for AI Motion Capture from Videos}, 
